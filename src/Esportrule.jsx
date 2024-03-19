@@ -9,8 +9,8 @@ const Esportrule = () => {
       </div>
       <div className="md:w-2/3">
         <h2 className="text-3xl font-bold mb-6" style={{ fontFamily: 'Arial, sans-serif' }}>Esports Event Rules & Regulations</h2>
-        <ul className="list-disc pl-6 mb-4" style={{ fontSize: '1.2rem', fontFamily: 'Arial, sans-serif' }}>
-          <li className="mb-2">Respect all players and event staff.</li>
+        <ul className="list-disc pl-6 mb-4" style={{ fontSize: '1.3rem', fontFamily: 'Arial, sans-serif' }}>
+          <li className="mb-2 font">Respect all players and event staff.</li>
           <li className="mb-2">Cheating or exploiting game mechanics is strictly prohibited.</li>
           <li className="mb-2">Follow the tournament schedule and be punctual for matches.</li>
           <li className="mb-2">Teams must submit their rosters and equipment configurations before the event starts.</li>
